@@ -1,5 +1,6 @@
 # Scraped-Username-Lists-From-Sus-Forums
-Usernames scraped from sus and weird forums.
+
+Lists of usernames that were scraped from sus and weird forums.
 
 ## Scraped Username Statistics
 
