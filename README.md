@@ -1,5 +1,17 @@
 # Scraped-Username-Lists-From-Sus-Forums
-Usernames scraped from sus and weird forums
+Usernames scraped from sus and weird forums.
+
+## Scraped Username Statistics
+
+| Metric | Count |
+|--------|-------|
+| Total usernames | 38,963 |
+| Total unique usernames | 38,940 |
+| Total duplicate usernames | 23 |
+
+*Last updated: April 12, 2026*<sup>*</sup>
+
+<sup>*total usernames is updated frequently. unique and dupe is monthly</sup>
 
 ---
 
