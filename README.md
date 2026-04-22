@@ -26,7 +26,7 @@ Usernames scraped from posted threads and responses within.
 
 Date range of scrape: 1/3/26 --> Current Date
 
-Unique Usernames: 21,550
+Unique Usernames: 22,804
 
 ---
 
@@ -38,4 +38,4 @@ Usernames scraped from posted threads and responses within.
 
 Date range of scrape: 1/4/26 --> Current Date
 
-Unique Usernames: 17,412
+Unique Usernames: 17,647
